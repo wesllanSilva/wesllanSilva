@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Wesllan Silva</h1>
 <h3 align="center">Fazendo transição de carreira para área de Dados e programação.​​ Apaixonado por inovação e tecnologia</h3>
 
-- 🔭 Atualmente, estou trabalhando com **Análise de dados e Análise de Sistemas**
+- 🔭 Atualmente, estou trabalhando com **Análise de dados, Análise de Sistemas, Especificação e Teste de Sofware**
 
 - 📫 Como me contactar: **wesllan2000@yahoo.com.br**
 
